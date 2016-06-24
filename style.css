@@ -46,8 +46,8 @@ html {
 --------------------------------------------------------------*/
 
 @font-face {
-font-family: Bariol_Light;
-src: url("<?php bloginfo('template_directory'); ?>/fonts/Bariol_Light.otf") format("opentype");
+font-family: 'Bariol_Light';
+src: url("fonts/Bariol_Light.otf") format("opentype");
 }
 
  body {
