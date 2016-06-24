@@ -45,8 +45,13 @@ html {
 2.0 Typography
 --------------------------------------------------------------*/
 
+@font-face {
+font-family: Bariol_Light;
+src: url("<?php bloginfo('template_directory'); ?>/fonts/Bariol_Light.otf") format("opentype");
+}
+
  body {
-	font-family: 'Open Sans Condensed', serif;
+	font-family: 'Bariol_Light', sans-serif;
 	color: #404040;
 	margin: 0;
 	overflow-y: scroll;
