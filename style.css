@@ -50,6 +50,12 @@ font-family: 'Bariol_Light';
 src: url("fonts/Bariol_Light.otf") format("opentype");
 }
 
+@font-face {
+font-family: Ostrich Sans;
+src: url("fonts/OstrichSans-Medium.otf") format("opentype");
+font-weight: 400;
+}
+
  body {
 	font-family: 'Bariol_Light', sans-serif;
 	color: #404040;
