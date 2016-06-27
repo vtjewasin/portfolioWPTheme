@@ -2,15 +2,10 @@
 
 <?php get_sidebar(); ?>
 
-<<<<<<< HEAD
- <?phpset_post_thumbnail_size( 400, 300, true ); ?> 
-=======
-
->>>>>>> feature/gcgfcghk
-<div class="content-area">
-<div id="projects">
 <!-- Start the Loop. -->
 
+<div class="content-area">
+<div id="projects">
 <ul id="title1">Projects</ul>
 <div class="posts">
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
