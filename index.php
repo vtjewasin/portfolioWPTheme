@@ -3,7 +3,7 @@
 <?php get_sidebar(); ?>
 
 <!-- Start the Loop. -->
-<div  class="container" >
+
 <div class="content-area">
 <div id="projects">
 <ul id="title1">Projects</ul>
