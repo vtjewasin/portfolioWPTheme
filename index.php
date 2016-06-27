@@ -2,7 +2,6 @@
 
 <?php get_sidebar(); ?>
 
- <?phpset_post_thumbnail_size( 400, 300, true ); ?> 
 <div class="content-area">
 <div id="projects">
 <!-- Start the Loop. -->
