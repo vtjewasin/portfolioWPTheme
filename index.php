@@ -1,14 +1,13 @@
 <?php get_header(); ?>
 
-
+<?php get_sidebar(); ?>
 
 <!-- Start the Loop. -->
-<div class="container" >
+<div  class="container" >
 <div class="content-area">
 <div id="projects">
 <ul id="title1">Projects</ul>
 <div class="posts">
-
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
 <?php
