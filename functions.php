@@ -83,8 +83,10 @@ function _s_widgets_init() {
 add_action( 'widgets_init', '_s_widgets_init' );
 
 
-
-
+function register_my_menu() {
+  register_nav_menu('header-menu',__( 'Header Menu' ));
+}
+add_action( 'init', 'register_my_menu' );
 
 
 /**
