@@ -2,7 +2,11 @@
 
 <?php get_sidebar(); ?>
 
+<<<<<<< HEAD
+ <?phpset_post_thumbnail_size( 400, 300, true ); ?> 
+=======
 
+>>>>>>> feature/gcgfcghk
 <div class="content-area">
 <div id="projects">
 <!-- Start the Loop. -->
