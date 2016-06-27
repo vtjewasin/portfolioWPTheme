@@ -2,6 +2,7 @@
 
 <?php get_sidebar(); ?>
 
+
 <div class="content-area">
 <div id="projects">
 <!-- Start the Loop. -->
