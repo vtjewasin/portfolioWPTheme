@@ -1,12 +1,7 @@
 <?php get_header(); ?>
 
 <?php get_sidebar(); ?>
-
-<<<<<<< HEAD
- <?phpset_post_thumbnail_size( 400, 300, true ); ?> 
-=======
-
->>>>>>> feature/gcgfcghk
+<div  class="container" >
 <div class="content-area">
 <div id="projects">
 <!-- Start the Loop. -->
