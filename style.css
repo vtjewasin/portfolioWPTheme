@@ -404,7 +404,6 @@ padding-top: 50px;
 	z-index: 6;
 	background-clip: content-box;
 	position:relative;
-	top: 200px;
 }
 
 .thumbnail:hover p{
@@ -485,6 +484,7 @@ padding-top: 50px;
 	font-family: Ostrich Sans;
 	text-align: left;
 	padding-left: 10px;
+	padding-top: 200px;
 
 }
 
