@@ -392,6 +392,8 @@ padding-top: 50px;
 	line-height: 18px;
 	opacity: 0;
 	padding-left: 10px;
+	position: relative;
+	top: 15px;
 
 }
 
@@ -399,13 +401,9 @@ padding-top: 50px;
 	opacity:0;
 	color: #414958;
 	height: 220px;
-	width: 300px;
 	z-index: 6;
-	float: left;
-	bottom: 0;
 	background-clip: content-box;
 	position:relative;
-	width: 100%;
 }
 
 .thumbnail:hover p{
@@ -482,11 +480,11 @@ padding-top: 50px;
 
 #projects h1{
 	color: #1D2229;
-	margin-top: 190px;
 	font-size: 2em;
 	font-family: Ostrich Sans;
 	text-align: left;
 	padding-left: 10px;
+	padding-top: 200px;
 
 }
 

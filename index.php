@@ -38,19 +38,5 @@
 	</div>
 </div>
 </div>
-</div>
-
-
-<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/jquery.min.js"></script>
-<script	src="<?php bloginfo('template_url'); ?>/js/jquery.nav.js" type="text/javascript" ></script>
-	<script>
-		
-		$(document).ready(function() {
-			$('#nav').onePageNav();
-		});
-	</script>
-		
-			
-<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/jquery.min.js"></script>
-	
+</div>	
 <?php get_footer(); ?>
